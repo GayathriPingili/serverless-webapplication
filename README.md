@@ -32,8 +32,8 @@ A simple web application that calculates the result of a base number raised to t
 4. **DynamoDB**:
     - Set up a table called `PowerOfMathDatabase` with `ID` as the partition key.
 
-## Usage
-- Open the hosted app, enter a base number and exponent, and click **CALCULATE** to get the result.
+![Screenshot 2025-04-27 171747](https://github.com/user-attachments/assets/2cbb67e4-9f67-4006-b2a3-a0cd50cde990)
+
 
 ## License
 MIT License
